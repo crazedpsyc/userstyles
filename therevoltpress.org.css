@@ -1,0 +1,23 @@
+* {
+	background: #222 !important;
+	background-color: #222 !important;
+	background-image: none !important;
+	color: #ddd !important;
+	border: none !important;
+	font-family: Sans !important;
+}
+.tborder { background-color: #111 !important; background: #111 !important; border-radius: 5px !important; box-shadow: 0px 0px 10px #000 !important; }
+img[src="http://therevoltpress.org/images/columnsdivider.jpg"] { display: none; }
+textarea, input[type="text"], input[type="password"] {
+	background: #ddd !important; color: #222 !important; box-shadow: inset 0px 0px 4px #000 !important; border: 1px solid #101010 !important; border-radius: 4px !important;
+}
+textarea, input[type="text"]:focus, input[type="password"]:focus {
+	box-shadow: inset 0px 0px 3px #000 !important;
+}
+.page {
+	max-width: 100% !important;
+	overflow: auto !important;
+}
+#news:first-child .page {
+	overflow: hidden !important;
+}

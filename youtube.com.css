@@ -1,0 +1,49 @@
+*, *:focus, *:hover, *:active {
+    color: #DDD !important;
+    background: #222 !important;
+    /* oh so flat :3 */
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important; 
+    text-shadow: none !important;
+    transition-duration: 0ms !important;
+    -moz-transition-duration: 0ms !important;
+    -webkit-transition-duration: 0ms !important;
+}
+input[type="text"], input[type="password"] { 
+    color: #222 !important;
+    background: #DDD !important;
+}
+#search-btn, .ad-div, .guide-container, .guide-background, .video-actions, #watch-actions-right, #watch-info, #watch-discussion, #watch-userbanner, #watch-mfu-button, #masthead-user-image, #logo-container, #footer-container, .sidebar-module-header, .sidebar-module-description, #video-sidebar h3, #video-sidebar h2, #search-header, #search-pva, .promoted-videos-disclaimer, #watch-video-extra, div[data-list-type="QL"] {
+    display: none !important;
+}
+#masthead-search-terms {
+    border-radius: 3px !important;
+}
+#feed {
+    margin-left: 0px !important;
+    width: auto !important;
+}
+#search-main { width: auto !important; }
+#search-refinements { padding: none !important; margin: none !important; }
+a:hover .contains-addto .video-time, a.contains-addto:hover .video-time {
+    display: inline !important;
+}
+.yt-uix-button-menu, .yt-uix-button-menu-view-choices, .hid {
+    border: 1px solid #111 !important;
+    border-top: none !important;
+}
+
+
+/* like buttons */
+#watch-like img {
+    background: no-repeat url(http://s.ytimg.com/yt/imgbin/www-master-vflJFhv9g.png) -27px -56px !important;
+}
+#watch-unlike img {
+    background: no-repeat url(http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png) -112px -14px !important;
+}
+
+
+
+
+

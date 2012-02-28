@@ -1,0 +1,21 @@
+html {
+	background: #222 !important;
+	color: #ddd !important;
+}
+table {
+        background-color: none !important;
+	background: #252525 !important;
+	background-color: #252525 !important;
+	color: #ddd !important;
+}
+#Table3 {
+	background: #151515 !important;
+}
+#Table4 { background: #151515 !important; }
+a {
+	color: #99d !important;
+}
+tr {
+	background-color: #252525 !important;
+}
+td { background: none !important; }

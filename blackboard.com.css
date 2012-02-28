@@ -1,0 +1,19 @@
+html {
+	background: #222 !important;
+	background-color: #222 !important;
+	color: #ddd !important;
+}
+body {
+	background: #222 !important;
+	background-color: #222 !important;
+	color: #ddd !important;
+}
+img[src="/vi/bb_bb60/branding/_1_1/knhslogo_DEFAULT.gif"], img[src="/images/console/tabcorners/rc_FFFFFF_r.gif"], img[src="/images/console/tabcorners/rc_FFFFFF_l.gif"], img[src="/images/console/tabcorners/rc_336666_r.gif"], img[src="/images/console/tabcorners/rc_336666_l.gif"], img[src="/images/swatches/FFFFFF.gif"], img[src="/images/ci/misc/tab_0l.gif"] img {
+	display: none !important;
+}
+* {
+	background-color: #222 !important;
+	color: #ddd !important;
+	background-color: #222 !important;
+	background-image: none !important;
+}

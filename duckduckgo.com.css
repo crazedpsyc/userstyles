@@ -1,0 +1,32 @@
+.search_suggestion {
+  background: none !important;
+  background-color: #111 !important;
+  border: 1px solid #101010 !important;
+}
+.search_suggestion:hover {
+  background-color: #151515 !important;
+}
+#zero_click {
+  border: 1px solid #101010 !important;
+}
+#zero_click_header {
+  background: none !important;
+  background-color: #111 !important;
+  border-color: #101010 !important;
+}
+.highlight {
+  background: #111 !important;
+  border: 1px solid #101010 !important;
+}
+.highlight_sponsored {
+  background: #111115 !important;
+}
+#footer_homepage {
+    background: #111 !important;
+    background-color: #111 !important;
+    border-top: 1px solid #101010 !important;
+}
+#search_wrapper_homepage, #search_form_input_homepage {
+  box-shadow: inset 1px 1px 2px #999, 0px 0px 8px #000 !important;
+  -webkit-box-shadow: inset 1px 1px 2px #999, 0px 0px 8px #000 !important;
+}
